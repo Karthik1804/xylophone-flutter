@@ -14,3 +14,7 @@ I created a simple UI designed app which looks lika a small xylophone where it p
 
 https://pub.dev/packages/audioplayers
 
+## Course
+
+This flutter application is built to create different sounds for touching different tabs in the app.In this app, I used a 'audio players' package from dart package container.This app is created during the course "The Complete 2020 Flutter Bootcamp with Dart" created by collobaration with Google Flutter team and The London App Brewery, instructed by Dr.Angela Yu.
+
